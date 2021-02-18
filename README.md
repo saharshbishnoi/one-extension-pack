@@ -1,16 +1,12 @@
-# README
+# One Extension Pack
 
-## This is the README for your extension pack "one-extension-pack"
+Common extensions and tools used for Python, C/C++ and Web SaaS development.
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+Includes tools to facilitate the implementation of best practices for developing system and embedded applications in a remote ssh environment.
+## License
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+[MIT](https://opensource.org/licenses/MIT)
 
-## For more information
+## Support
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+saharshbishnoi@gmail.com
