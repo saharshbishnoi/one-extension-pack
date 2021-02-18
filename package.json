@@ -4,6 +4,7 @@
     "description": "Extension Pack for C++, Python and SaaS Development",
     "version": "0.0.1",
     "publisher": "saharshbishnoi",
+    "repository": "https://github.com/saharshbishnoi/one-extension-pack",
     "engines": {
         "vscode": "^1.53.0"
     },
