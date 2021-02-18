@@ -3,6 +3,7 @@
     "displayName": "One Extension Pack",
     "description": "Extension Pack for C++, Python and SaaS Development",
     "version": "0.0.1",
+    "publisher": "saharshbishnoi",
     "engines": {
         "vscode": "^1.53.0"
     },
