@@ -2,7 +2,7 @@
     "name": "one-extension-pack",
     "displayName": "One Extension Pack",
     "description": "Extension Pack for C++, Python and SaaS Development",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "saharshbishnoi",
     "repository": "https://github.com/saharshbishnoi/one-extension-pack",
     "engines": {
